@@ -5,6 +5,7 @@ lattice_attack.py
 Orquestador del ataque reticular completo sobre firmas ECDSA con nonce sesgado.
 
 Uso:
+
     # Ataque básico:
     python3 attack/lattice_attack.py \
         --sigs data/signatures_b8.json \
