@@ -128,7 +128,7 @@ python3 eval/plot_results.py
 
 ---
 
-## Cómo citar
+## CITA
 
 ```bibtex
 @inproceedings{lopez2026ecdsa,
@@ -144,6 +144,5 @@ python3 eval/plot_results.py
 ---
 
 ## ⚠️ Aviso legal
-
 Este código es exclusivamente para investigación académica en un entorno
-controlado (servidor propio). No usar contra sistemas sin autorización explícita.
+controlado (servidor propio).
