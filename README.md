@@ -134,7 +134,7 @@ python3 eval/plot_results.py
 @inproceedings{lopez2026ecdsa,
   title     = {Breaking and Defending ECDSA in Real TLS Traffic: 
                A Lattice Attack and AI-Based Detection Framework},
-  author    = {Lopez-Figueras, Jorge Gael and Sarmiento, Eliseo},
+  author    = {Lopez-Figueras,Leonardo Rivera Zacarias and  Sarmiento, Eliseo},
   booktitle = {Mexican International Conference on Artificial Intelligence (MICAI)},
   year      = {2026},
   publisher = {Springer LNAI}
